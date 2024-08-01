@@ -1,5 +1,5 @@
 <?php 
 
-echo "<strong>Let's code!</strong>"
+echo "<strong>test!</strong>"
 
 ?>
